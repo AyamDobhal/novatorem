@@ -2,7 +2,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://novatorem-ayamdobhal.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ayam_d)
+&nbsp; <br> [![Spotify](https://novatorem-ayamdobhal.vercel.app/api/spotify?background_color=0d1117&border_color=00ecff)](https://open.spotify.com/user/ayam_d)
 
   </td>
   <td width="50%">
